@@ -31,12 +31,13 @@ Pastikan kamu sudah menginstal:
 * Git
 
 ### 2. Kloning Repositori
-bash
 git clone [https://https://github.com/yohannes711/perpusweb.git
 
-### 3. Konfigurasi Database Nyalakan database server MySQL di XAMPP. Buat database baru dengan nama [nama_database_kamu]. Import file database [nama_file].sql (jika ada) yang terletak di folder database proyek ini ke phpMyAdmin Anda.
+### 3. Konfigurasi Database Nyalakan database server MySQL di XAMPP
+Buat database baru dengan nama [nama_database_kamu]. Import file database [nama_file].sql (jika ada) yang terletak di folder database proyek ini ke phpMyAdmin Anda.
 
-### 4. Menjalankan Aplikasi PHP Native (XAMPP): Pindahkan folder proyek ke dalam folder htdocs, lalu buka http://localhost/nama-folder-proyek di browser.
+### 4. Menjalankan Aplikasi PHP Native (XAMPP)
+Pindahkan folder proyek ke dalam folder htdocs, lalu buka http://localhost/nama-folder-proyek di browser.
 
 ### 📷 Screenshot
 <img width="1333" height="568" alt="image" src="https://github.com/user-attachments/assets/b4496fac-2b58-4411-b61d-14b0d1d515f7" />
