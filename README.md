@@ -17,7 +17,7 @@ Aplikasi perpustakaan berbasis web yang dirancang untuk mempermudah membaca buku
 * **Frontend:** HTML5, CSS, Bootstrap 5, JavaScript
 * **Backend:** PHP Native
 * **Database:** MySQL
-* **Tools:** Git, Visual Studio Code]
+* **Tools:** Git, Visual Studio Code
 
 ---
 
@@ -27,7 +27,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal (
 
 ### 1. Prasyarat
 Pastikan kamu sudah menginstal:
-* [Contoh: XAMPP / PHP >= 8.1]
+* XAMPP / PHP >= 8.1]
 * Git
 
 ### 2. Kloning Repositori
